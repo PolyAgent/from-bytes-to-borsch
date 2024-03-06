@@ -16,7 +16,9 @@ git submodule update --init --recursive
 
 `fine-tuning` contains workflows and configs used to fine-tune LLMs to participate in "UNLP-2024" challenge.
 
-`benchmarks` contains scripts and workflows on how we evaluated the fine-tuned LLMs
+`benchmarks` contains scripts and workflows on how we evaluated the fine-tuned LLMs.
+
+`notebooks` contains python notebooks.
 
 # Citation
 
