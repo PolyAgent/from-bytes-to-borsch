@@ -23,5 +23,13 @@ git submodule update --init --recursive
 # Citation
 
 ```
-TBD
+@misc{frombytestoborsch,
+      title={From Bytes to Borsch: Fine-Tuning Gemma and Mistral for the Ukrainian Language Representation}, 
+      author={Artur Kiulian and Anton Polishko and Mykola Khandoga and Oryna Chubych and Jack Connor and Raghav Ravishankar and Adarsh Shirawalmath},
+      year={2024},
+      eprint={2404.09138},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2404.09138}, 
+}
 ```
